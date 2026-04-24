@@ -100,3 +100,5 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 # Caixa de Alerta
 st.warning(f"**ALERTA DE RISCO:** {info_atual['alerta']}", icon="⚠️")
+
+#teste
